@@ -1,0 +1,7 @@
+{
+  "name": "QVA-Tienda",
+  "description": "Una aplicación de tienda progresiva para gestionar clientes, mensajeros y administradores.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
